@@ -8,8 +8,8 @@ Tools for data augmentation on a pre-existing dataset using Stable Diffusion tec
 
 Datasets generated with the scripts and uploaded on RoboFlow.
 
-[Baseline Dataset](https://app.roboflow.com/gennaro-mellone/glitter_baseline_backup/2)
+[Baseline Dataset](https://universe.roboflow.com/gennaro-mellone/glitter_baseline_backup)
 
-[Text2Image Dataset](https://app.roboflow.com/gennaro-mellone/glitter_text-img_backup/2)
+[Text2Image Dataset](https://universe.roboflow.com/gennaro-mellone/glitter_text-img_backup)
 
-[Image2Image Dataset](https://app.roboflow.com/gennaro-mellone/glitter_stablediff_backup/3)
+[Image2Image Dataset](https://universe.roboflow.com/gennaro-mellone/glitter_stablediff_backup)
